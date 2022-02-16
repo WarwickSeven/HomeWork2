@@ -1,6 +1,7 @@
 // ДЗ пункт 2, 3, 4 - создание перечисления, массива и структуры
 
 #include <iostream>
+#include <string>
 
 struct tPlayer                                          //ДЗ пункут номер 4
 {
